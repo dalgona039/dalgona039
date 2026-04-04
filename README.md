@@ -1,5 +1,7 @@
-[![Stats](https://github-readme-stats.vercel.app/api?username=dalgona039)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalgona039&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats
+![GitHub followers](https://img.shields.io/github/followers/dalgona039?style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/dalgona039?style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=dalgona039&style=for-the-badge)
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
