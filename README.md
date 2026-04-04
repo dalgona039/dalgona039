@@ -1,7 +1,7 @@
 ![GitHub Readme Stats](https://img.shields.io/badge/GitHub%20Readme%20Stats-181717?style=for-the-badge&logo=github&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dalgona039&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalgona039&layout=compact&theme=tokyonight)
+[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=dalgona039&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalgona039&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
