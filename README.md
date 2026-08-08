@@ -1,5 +1,3 @@
-[DeepL Translation of dalgona039/dalgona039]
-
 ## 📊 GitHub Stats
 ![GitHub followers](https://img.shields.io/github/followers/dalgona039?style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/dalgona039?style=for-the-badge)
